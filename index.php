@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
-    <title>NfPrBro</title>
+    <title>Xvip</title>
     <link rel="icon" type="image/x-icon" href="assets/favicon.png"/>
     <link href="assets/css/loader.css" rel="stylesheet" type="text/css" />
     <link href="style.css" rel="stylesheet" type="text/css" />
@@ -36,7 +36,7 @@
     <div class="header-container">
         <header class="header navbar navbar-expand-sm bg-gradient-dark col-lg-12 col-md-12 col-sm-12 col-xl-12">
 
-            <a class="navbar-brand" href="index.html"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 100 100" fill="none"><rect width="100" height="100" fill="none" rx="0" ry="0" /><path fill="#f70e29" d="M81 32.87689C81 30.18197 78.90223 28 76.3145 28h-52.629C21.09837 28 19 30.18346 19 32.87689V67.1231C19 69.81803 21.09777 72 23.6855 72h52.629C78.90163 72 81 69.81654 81 67.12311V32.8769z" /><path fill="#ffffff" d="M37.5 59c1.38071 0 2.5 1.11929 2.5 2.5S38.88071 64 37.5 64h-8c-1.38071 0-2.5-1.11929-2.5-2.5s1.11929-2.5 2.5-2.5h8zM54 59c1.38071 0 2.5 1.11929 2.5 2.5S55.38071 64 54 64h-8c-1.38071 0-2.5-1.11929-2.5-2.5S44.61929 59 46 59h8zm16.5 0c1.38071 0 2.5 1.11929 2.5 2.5S71.88071 64 70.5 64h-8c-1.38071 0-2.5-1.11929-2.5-2.5s1.11929-2.5 2.5-2.5h8zM33 36c3.3137 0 6 2.6863 6 6s-2.6863 6-6 6-6-2.6863-6-6 2.6863-6 6-6z" /></svg><span class="navbar-brand-name" style="font-weight: bold;">NfPrBro</span></a>
+            <a class="navbar-brand" href="/"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 100 100" fill="none"><rect width="100" height="100" fill="none" rx="0" ry="0" /><path fill="#f70e29" d="M81 32.87689C81 30.18197 78.90223 28 76.3145 28h-52.629C21.09837 28 19 30.18346 19 32.87689V67.1231C19 69.81803 21.09777 72 23.6855 72h52.629C78.90163 72 81 69.81654 81 67.12311V32.8769z" /><path fill="#ffffff" d="M37.5 59c1.38071 0 2.5 1.11929 2.5 2.5S38.88071 64 37.5 64h-8c-1.38071 0-2.5-1.11929-2.5-2.5s1.11929-2.5 2.5-2.5h8zM54 59c1.38071 0 2.5 1.11929 2.5 2.5S55.38071 64 54 64h-8c-1.38071 0-2.5-1.11929-2.5-2.5S44.61929 59 46 59h8zm16.5 0c1.38071 0 2.5 1.11929 2.5 2.5S71.88071 64 70.5 64h-8c-1.38071 0-2.5-1.11929-2.5-2.5s1.11929-2.5 2.5-2.5h8zM33 36c3.3137 0 6 2.6863 6 6s-2.6863 6-6 6-6-2.6863-6-6 2.6863-6 6-6z" /></svg><span class="navbar-brand-name" style="font-weight: bold;">Xvip</span></a>
             </header>
     </div>
     <!--  END MAINBAR  -->
@@ -261,7 +261,7 @@
                     
                 <div class="footer-wrapper">
                     <div class="footer-section f-section-1">
-                        <p class="">MadMax0r</p>
+                        <p class="">XteamBD</p>
                     </div>
                     <div class="footer-section f-section-2">
                         <p class="">Coded with <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-heart"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></p>
